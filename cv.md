@@ -23,5 +23,6 @@ function saleHotdogs(n){
 ```
 ## Work Experience
 My study projects:
-    * https://anton5k.github.io/green-corp-landing/
-    * https://anton5k.github.io/cssBayan/cssBayan/
+* [Landing page](https://anton5k.github.io/green-corp-landing/)
+* [Mems](https://anton5k.github.io/cssBayan/cssBayan/)
+## Courses
