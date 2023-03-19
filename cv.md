@@ -1,7 +1,7 @@
 # Anton Krivoshapov
 ***
 ## Contacts
-**Phone** +7 909 209 26 09 <br>
+**Phone** +7 933 334 41 09 <br>
 **E-mail:** chymazii@gmail.com<br>
 ***
 ## About me
@@ -15,3 +15,13 @@
 * Git
 ***
 ## Code Example
+```
+function saleHotdogs(n){
+  return n<5 ? n*100 : 
+  n>=5 && n<10 ? n*95 : n*90; 
+  }
+```
+## Work Experience
+My study projects:
+    * https://anton5k.github.io/green-corp-landing/
+    * https://anton5k.github.io/cssBayan/cssBayan/
