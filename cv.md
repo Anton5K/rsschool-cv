@@ -1,7 +1,7 @@
 # Anton Krivoshapov
 ## Contacts
-**Phone** +7 933 334 41 09 <br>
-**E-mail:** chymazii@gmail.com<br>
+**Phone** +7 933 334 41 09
+**E-mail:** chymazii@gmail.com
 ## About me
 *My goal is to become a web developer, to achieve it I need to master HTML CSS JS for this I take rs school courses.*
 ## Skills
