@@ -28,4 +28,4 @@ My study projects:
 * Java Script tutorial: [learn.javascript.ru](https://learn.javascript.ru/)
 * Frontend basics: [hyperskill.org](https://hyperskill.org/tracks?category=11)
 ## English
-**A2**(I studied English at school and university)
+**A2** (I studied English at school and university)
